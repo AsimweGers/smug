@@ -10,6 +10,11 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+          <meta
+            name="google-site-verification"
+            content="cEHGpZm9KSj8YVwG2LHm_ZG_e5n5Nw1UbUzwuYpshfQ"
+          />
+
           <script
             type="text/javascript"
             src="https://kvaaa.com/bnr.php?section=YllixBanner&pub=398782&format=300x250&ga=a"
